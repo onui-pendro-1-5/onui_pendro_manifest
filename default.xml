@@ -732,7 +732,7 @@
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
 
-  <!-- Add all PixelExperience repos -->
-  <include name="snippets/pixel.xml" />
+  <!-- Add OnUi-Pendroi-1.5 repos -->
+  <include name="snippets/onui.xml" />
 
 </manifest>
