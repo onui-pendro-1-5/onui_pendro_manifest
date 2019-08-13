@@ -59,7 +59,7 @@
   <project path="onui_pendro_manifest" name="onui_pendro_manifest" remote="OnUi-Pendro" />    
   <project path="frameworks/base" name="android_frameworks_base" remote="OnUi-Pendro-gitlab" /> 
   <project path="vendor/gapps" name="vendor_gapps" remote="OnUi-Pendro-gitlab" /> 
-  <project path="vendor/pixelstyle" name="vendor_onuistyle" remote="OnUi-Pendro-gitlab" /> 
+  <project path="vendor/onuistyle" name="vendor_onuistyle" remote="OnUi-Pendro-gitlab" /> 
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="OnUi-Pendro-gitlab" /> 
   <project path="system/core" name="android_system_core" remote="OnUi-Pendro-gitlab" /> 
   <project path="system/sepolicy" name="android_system_sepolicy" remote="OnUi-Pendro-gitlab" /> 
